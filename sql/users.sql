@@ -1,0 +1,1 @@
+INSERT INTO `Ecommerce`.`users` (`id`,`name`,`email`,`email_verified_at`,`password`,`remember_token`,`created_at`,`updated_at`) VALUES ('1','John Doe','john@gmail.com',NULL,'$2y$10$Oh89w2LWEcCpCYzNHCdKQ.sIhE5HRtjBr1KXC5ABiGrpDe.emSt6m',NULL,'2022-06-25 15:20:06','2022-06-25 15:20:06');
